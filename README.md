@@ -1,7 +1,11 @@
 # myflutterapp
 
-A new Flutter project.
+This app generates 2 randomWords in PascalCase.
+We can Select our favourite Words which can be viewed in the next tab
 
+
+this app can be used in ios as well as Android as made with Flutter.
+Basically made fore testing and hands on with dart(language used) to make this app.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
