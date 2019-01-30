@@ -5,7 +5,7 @@ We can Select our favourite Words which can be viewed in the next tab
 
 
 this app can be used in ios as well as Android as made with Flutter.
-Basically made fore testing and hands on with dart(language used) to make this app.
+Basically made for testing and hands on with dart and flutter.
 
 
 #Screenshots
