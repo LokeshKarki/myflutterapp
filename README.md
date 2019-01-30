@@ -9,9 +9,6 @@ Basically made fore testing and hands on with dart(language used) to make this a
 
 
 #Screenshots
-![screenshot_20190128-082635](https://user-images.githubusercontent.com/33099008/51988297-5c2da600-24ca-11e9-88cc-49f0fd463561.png)
-![screenshot_20190128-082647](https://user-images.githubusercontent.com/33099008/51988299-5cc63c80-24ca-11e9-855b-abe8f5e52230.png)
-![screenshot_20190128-082653](https://user-images.githubusercontent.com/33099008/51988302-5cc63c80-24ca-11e9-9a67-66f184df6634.png)
 
 
 ## Getting Started
